@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sivakorada
+- 👋 Hi, I’m sivakorada
 - 👀 I’m interested in Data science
 - 🌱 I’m currently working as SQL Developer
 - 💞️ I’m looking to collaborate on business intelligence
